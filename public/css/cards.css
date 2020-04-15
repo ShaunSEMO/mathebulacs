@@ -1,0 +1,166 @@
+.service-card{
+    border: 1px solid #D5D1CA;
+    width: 250px;
+    text-align: center;
+    padding: 35px 30px;
+    border-radius: 8px;
+    z-index: 5;
+    background-color: #ffffff;
+    margin-top: -2%;
+}
+
+.service-title{
+    font-weight: 700;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.service-desc{
+    height: 55px;
+}
+
+.testimonial-card{
+    border: 1px solid #D5D1CA; 
+    width: 300px;
+    padding: 5px 25px;
+    border-radius: 3px;
+}
+
+.test-icon-container{
+    display: flex;
+    justify-content: flex-end;
+    height: 60px;
+}
+
+.test-icon{
+    width: 13px;
+}
+
+.test-message{
+    margin-top: 0;
+    min-height: 100px;
+}
+
+.test-person{
+    display: flex;
+    justify-content: stretch;
+}
+
+.test-person-image{
+    width: 45px;
+    background: url('../images/oneperson.png') no-repeat;
+    background-position: initial;
+    background-size: contain;
+    margin-top: 18px;
+}
+
+.name{
+    font-size: 0.9rem;
+}
+
+.membership{
+    margin-top: -8%;
+}
+
+.serv-img-container{
+    margin-top: 8% !important;
+    width: 142px;
+    height: 100px;
+    background: url('../images/group-icon.png') no-repeat;
+}
+
+.serv-img-container-individual{
+    margin-top: 8% !important;
+    width: 142px;
+    height: 100px;
+    background: url('../images/oneperson.png') no-repeat;
+    margin-left: 37%;
+}
+
+.serv-img-container-padding{
+    padding: 25px 15px !important;
+}
+.price-top{
+    margin-top: 5%;
+    margin-bottom: 0;
+}
+
+.price{
+    margin-top: -2%;
+    margin-bottom: auto;
+}
+
+.button-margin-top{
+    margin-top: 15% !important;
+}
+
+.per-month{
+    font-size: 0.7rem;
+    margin-top: inherit;
+}
+
+.from{
+    color: #929290 !important;
+    font-weight: normal !important;
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.plan-cards{
+    width: 255px !important;
+    padding: 10px 0px !important;
+}
+
+.team-card{
+    width: 200px;
+    text-align: left;
+    height: 225px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+/* .team-card:hover{
+    width: 300px;
+    height: 325px;
+    background-color: yellow;
+} */
+
+.team-card-image{
+    width: 200px;
+    height: 150px;
+    border-radius: 8px;
+    opacity: 0.9;
+}
+
+/* .team-card-image:hover{
+    width: 300px;
+    height: 250px;
+    opacity: 1;
+} */
+
+.team-card-container{
+    padding: 0px 10px;
+}
+
+#team-image-1{
+    background: url('../images/astor.JPG') no-repeat;
+    background-size: cover;
+}
+
+#team-image-2{
+    background: url('../images/clifford.JPG') no-repeat;
+    background-size: cover;
+}
+
+#team-image-3{
+    background: url('../images/yvonne4.JPG') no-repeat;
+    background-size: cover;
+}
+
+#team-image-4{
+    background: url('../images/motherP.JPG') no-repeat;
+    background-size: cover;
+}
+

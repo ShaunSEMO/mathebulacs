@@ -1,0 +1,155 @@
+.no-margin-left {
+    margin-left: 0;
+}
+
+.no-margin-top {
+    margin-top: 0 !important;
+}
+
+.no-margin {
+    margin: 0 !important;
+}
+
+.no-text-align {
+    text-align: unset !important;
+}
+
+.footer-left-margin {
+    margin-left: 20%;
+}
+
+.butt-left {
+    margin-left: -7px;
+}
+
+.nav-bar-butt-margin{
+    margin: 0px 5%;
+}
+
+.button-margin-right {
+    margin-right: 10% !important;
+}
+
+.button-border {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
+.title-margin-left{
+    margin-left: 3%;
+}
+
+.bold {
+    font-weight: 700 !important;
+}
+
+.smaller-text {
+    font-weight: 100;
+    font-size: 0.8rem;
+    color: #D5D1CA;
+}
+
+.lage-text {
+    font-size: 1.6rem;
+}
+
+.lager-text {
+    font-size: 2.2rem;
+}
+
+.form-text {
+    font-size: 0.9rem;
+}
+
+.dark-bg {
+    color: #401D5B !important;
+}
+
+.longer-butt {
+    width: 100px !important;
+}
+
+.normal-font {
+    font-weight: normal;
+}
+
+.about {
+    text-align: center;
+    font-size: 2.0rem;
+    margin-top: 5% !important;
+}
+
+.margin-auto {
+    margin: auto;
+}
+
+.no-width {
+    width: unset !important;
+}
+
+.butt-padding {
+    padding: 0 30px !important;
+}
+
+.white {
+    color: #efefef;
+}
+
+.price-margin-bottom {
+    margin-bottom: 5% !important;
+}
+
+.price-margin {
+    margin-bottom: 11% !important;
+}
+
+.small-text-dark {
+    font-weight: 100;
+    font-size: 0.8rem;
+    color: #7e7e7e;
+}
+.no-deco{
+    text-decoration: none;
+    /* color: #fefefe; */
+}
+
+.initial{
+    text-align: initial !important;
+}
+
+.center{
+    text-align: center;
+}
+
+.text-margin-bottom{
+    margin-bottom: 7%;
+}
+
+.title-margin-bottom{
+    margin-bottom: 4%;
+}
+
+.table-border{
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    border-bottom: 1px solid #707070 !important;
+    border-radius: 0 !important;
+    color: #707070 !important;
+}
+
+.no-border-top{
+    border-top: 0 !important;
+}
+
+.extra-margin{
+    margin-bottom: 5% !important;
+}
+
+.declaration{
+    width: 60%;
+}
+
+.pointer{
+    cursor: pointer;
+}

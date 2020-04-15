@@ -1,0 +1,21 @@
+.form-group input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: #707070;
+    border-radius: 0;
+    font-weight: 100;
+}
+
+.form{
+    color: #707070 !important;
+    font-weight: 100 !important;
+}
+
+.plan :active{
+    background-color: aqua !important;
+}
+
+.radio-container{
+
+}

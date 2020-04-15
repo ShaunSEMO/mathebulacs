@@ -1,0 +1,22 @@
+.sub-input{
+    padding: 9px 15px;
+    color: #6A6464;
+    border-radius: 3px;
+    border: 1px solid #737E7E;
+    font-weight: 100;
+    width: 23%;
+}
+
+.header-form-input{
+    border-radius: 3px;
+    border: none;
+    color: gray;
+    padding: 10px;
+    width: 90%;
+    color: #707070;
+    font-weight: 100;
+    padding-left: 10px !important;
+    font-size: 0.84rem;
+    padding-left: 15px;
+    margin: 6% 0px;
+}
